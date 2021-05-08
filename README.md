@@ -27,4 +27,4 @@
 
 ## Literature
 
-- **[PhD thesis "Fingerprint Recognition for Forensic Applications".](file:///Users/ob37/Downloads/krishnamoorthy_ram_prasad.pdf)** Develops an evidence evaluation framework based on probabilistic matching (Fellegi-Sunter style).
+- **[PhD thesis "Fingerprint Recognition for Forensic Applications".](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiu3JiAzLrwAhWLGFkFHXzTDyEQFjABegQIAxAD&url=https%3A%2F%2Frepositorio.uam.es%2Fbitstream%2Fhandle%2F10486%2F667596%2Fkrishnamoorthy_ram_prasad.pdf%3Fsequence%3D1&usg=AOvVaw2uTAW9HZQQLWMolvry98_t)** Develops an evidence evaluation framework based on probabilistic matching (Fellegi-Sunter style).
