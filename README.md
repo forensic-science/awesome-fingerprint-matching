@@ -25,6 +25,10 @@
 
 - **[OpenAFIS.](https://github.com/neilharan/openafis)** High performance C++ fingerprint matching library. Note: does not extract minutiae.
 
+## Publicly available software (closed source)
+
+- **[FRStat](http://www.forensicxpert.com/frstat/)** software to statistically assess "the significance of an association between two friction ridge skin impressions." Paper is available [here](https://www.sciencedirect.com/science/article/abs/pii/S0379073818301403).
+
 ## Literature
 
 - **[PhD thesis "Fingerprint Recognition for Forensic Applications".](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiu3JiAzLrwAhWLGFkFHXzTDyEQFjABegQIAxAD&url=https%3A%2F%2Frepositorio.uam.es%2Fbitstream%2Fhandle%2F10486%2F667596%2Fkrishnamoorthy_ram_prasad.pdf%3Fsequence%3D1&usg=AOvVaw2uTAW9HZQQLWMolvry98_t)** Develops an evidence evaluation framework based on probabilistic matching (i.e. using likelihood ratios).
