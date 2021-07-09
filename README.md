@@ -8,6 +8,8 @@
 
 ### Fingerprint quality evaluation
 
+- [**FingerJetFXOSE** minutiae extraction algorithm](https://github.com/FingerJetFXOSE/FingerJetFXOSE)
+
 - **[NIST's fingerprint image quality algorithm (NFIQ).](https://www.nist.gov/publications/fingerprint-image-qualitiy)** Part of the NIST open source Biometric Image Software (see below).
     - See [NFIQ2](https://github.com/usnistgov/NFIQ2) in particular.
 
