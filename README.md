@@ -35,6 +35,8 @@
 
 ## Literature
 
+- **[Maltoni et al. (2003) Handbook of Fingerprint Recognition.](https://books.google.com/books?hl=fr&lr=&id=1Wpx25D8qOwC&oi=fnd&pg=PR11&dq=Handbook+of+fingerprint+recognition&ots=9zM11Upr67&sig=UpwRZCM9EFWTBC_rfvkSIhJPGCA#v=onepage&q=Handbook%20of%20fingerprint%20recognition&f=false):** thorough treatment of minutiae-based methods with additional topics such as synthetic fingerprint generation.
+
 - **[PhD thesis "Fingerprint Recognition for Forensic Applications".](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiu3JiAzLrwAhWLGFkFHXzTDyEQFjABegQIAxAD&url=https%3A%2F%2Frepositorio.uam.es%2Fbitstream%2Fhandle%2F10486%2F667596%2Fkrishnamoorthy_ram_prasad.pdf%3Fsequence%3D1&usg=AOvVaw2uTAW9HZQQLWMolvry98_t)** Develops an evidence evaluation framework based on probabilistic matching (i.e. using likelihood ratios).
 
 - **[Wavelet transforms for fingerprint matching](https://aip.scitation.org/doi/pdf/10.1063/1.3526205):** Automatic fingerprint identification system based on Level 3 features.
